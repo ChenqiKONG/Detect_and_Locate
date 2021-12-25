@@ -9,4 +9,5 @@ pandas: 1.0.5
 
 numpy: 1.19.0
 
+scikit-image: 0.17.2
 
