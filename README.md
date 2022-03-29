@@ -1,4 +1,4 @@
-# Detect-and-Locate-a-Face-Anti-Manipulation-Approach-with-Semantic-and-Noise-level-Supervision-
+# Detect and Locate: Exposing Face Manipulation by Semantic- and Noise-level Telltales
 
 ## Prerequisites:
 torch: 1.5.1
