@@ -19,7 +19,7 @@ criterion = torch.nn.BCEWithLogitsLoss()
 
 def parse_args():
     parser = argparse.ArgumentParser(description='cq')
-    parser.add_argument('--lr', default=2e-4, type=float)
+    parser.add_argument('--lr', default=2e-5, type=float)
     parser.add_argument('--warm_start_epoch', default=0, type=int)
     parser.add_argument('--epochs', default=10, type=int)
     parser.add_argument('--random_seed', default=0, type=int)
