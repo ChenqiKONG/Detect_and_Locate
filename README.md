@@ -1,5 +1,5 @@
 # Detect and Locate: Exposing Face Manipulation by Semantic- and Noise-level Telltales
-# Pytorch implementation of "Detect and Locate: Exposing Face Manipulation by Semantic- and Noise-level Telltales"
+Pytorch implementation of "Detect and Locate: Exposing Face Manipulation by Semantic- and Noise-level Telltales"
 
 ## Prerequisites:
 torch: 1.5.1
