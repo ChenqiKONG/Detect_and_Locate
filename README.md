@@ -18,14 +18,14 @@ https://portland-my.sharepoint.com/:u:/g/personal/cqkong2-c_my_cityu_edu_hk/EZ6P
 # Citation
 @article{kong2022detect,
 
-  title={Detect and Locate: Exposing Face Manipulation by Semantic-and Noise-level Telltales},
+&ensp;title={Detect and Locate: Exposing Face Manipulation by Semantic-and Noise-level Telltales},
   
-  author={Kong, Chenqi and Chen, Baoliang and Li, Haoliang and Wang, Shiqi and Rocha, Anderson and Kwong, Sam},
+&ensp;author={Kong, Chenqi and Chen, Baoliang and Li, Haoliang and Wang, Shiqi and Rocha, Anderson and Kwong, Sam},
   
-  journal={IEEE Transactions on Information Forensics and Security},
+&ensp;journal={IEEE Transactions on Information Forensics and Security},
   
-  year={2022},
+&ensp;year={2022},
   
-  publisher={IEEE}
+&ensp;publisher={IEEE}
   
 }
